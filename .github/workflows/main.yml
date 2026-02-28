@@ -1,4 +1,4 @@
-name: SAutomationWorkflowc
+name: AutomationWorkflowc
 on:
   push:
   # 2. 允许通过 API 触发（核心：用于自身重触发）
