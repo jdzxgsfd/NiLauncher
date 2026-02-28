@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-ja/26.0/offline/ni-software-platform-bundle-ja_26.0.0.49220-0+f68_offline.iso
-ni-software-platform-bundle-ja_26.0.0.49220-0+f68_offline.iso
-6293a3caf32d6c9aab216e19c2ba1d1c
-26.0.0.49220.x64.ja-JP
-Software Platform Bundle 2026 Q1 64bit Japanese
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-fr/26.0/offline/ni-software-platform-bundle-fr_26.0.0.49220-0+f68_offline.iso
+ni-software-platform-bundle-fr_26.0.0.49220-0+f68_offline.iso
+16c08aa94b7c08326d12f25513c70ddd
+26.0.0.49220.x64.fr-FR
+Software Platform Bundle 2026 Q1 64bit French
 NI.SPB
