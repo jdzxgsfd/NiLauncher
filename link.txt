@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-de/25.0/offline/ni-software-platform-bundle-x86-de_25.0.0.49247-0+f95_offline.iso 
-ni-software-platform-bundle-x86-de_25.0.0.49247-0+f95_offline.iso 
-0742ff34201b62249a308ca3d71c24e5
-25.0.0.49247.x86.de-DE
-Software Platform Bundle 2025 Q1 32bit German
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-fr/25.0/offline/ni-software-platform-bundle-x86-fr_25.0.0.49247-0+f95_offline.iso 
+ni-software-platform-bundle-x86-fr_25.0.0.49247-0+f95_offline.iso 
+e65ebf2373f3c617eb127d2154c2e21b
+25.0.0.49247.x86.fr-FR
+Software Platform Bundle 2025 Q1 32bit French
 NI.SPB
