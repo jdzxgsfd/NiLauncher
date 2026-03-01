@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-ko/25.5/offline/ni-software-platform-bundle-x86-ko_25.5.2.49153-0+f1_offline.iso
-ni-software-platform-bundle-x86-ko_25.5.2.49153-0+f1_offline.iso
-987f2de42ac1d229ae723b3d5e3c8205
-25.5.2.49153.x86.ko-KR
-Software Platform Bundle 2025 Q3 Patch 2 64bit Korean
+https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-zh-cn/25.5/offline/ni-software-platform-bundle-x86-zh-cn_25.5.2.49153-0+f1_offline.iso
+ni-software-platform-bundle-x86-zh-cn_25.5.2.49153-0+f1_offline.iso
+d5165680808634f745ffbed1b73bde45
+25.5.2.49153.x86.zh-CN
+Software Platform Bundle 2025 Q3 Patch 2 64bit Simplified Chinese
 NI.SPB
