@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-v/ni-visa/19.5/offline/ni-visa_19.5.0_offline.iso 
-ni-visa_19.5.0_offline.iso
-0af38f24ec3a8b24295a995ff3709923
-19.5.0
-NI-VISA 19.5 Full
+https://download.ni.com/support/nipkg/products/ni-v/ni-visa/20.0/offline/ni-visa_20.0.0_offline.iso 
+ni-visa_20.0.0_offline.iso
+2b7a4a83f2da9b2306cb730095dcec21
+20.0.0
+NI-VISA 20.0 Full
 NI.VISA
 
