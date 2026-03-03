@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/AST/ASLISOs/2018Q2/SPB/502050G-01M_SPB.iso 
-502050G-01M_SPB.iso
-524AE2C87A417663016CA4672D53BD47
-18.Spring
-Software Platform Bundle Spring 2018
+https://download.ni.com/support/softlib/AST/ASLISOs/2018Q4/SPB/502050H-01M_SPB.iso 
+502050H-01M_SPB.iso
+2B48661380E3E3BF0DB49E384AA15D4B
+18.Fall
+Software Platform Bundle Fall 2018
 NI.SPB
