@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/visa/NI-VISA/16.0/Windows/NIVISA1600full.zip 
-NIVISA1600full.zip
-b988996d3dbb336b1e860e783179932b
-16.0.Full
-NI-VISA 16.0 Full
+https://download.ni.com/support/softlib/visa/NI-VISA/16.0/Windows/NIVISA1600runtime.zip 
+NIVISA1600runtime.zip
+c259d3096bcdab0218c5df561e14ca07
+16.0.Runtime
+NI-VISA 16.0 Runtime
 NI.VISA
 
