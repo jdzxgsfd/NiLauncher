@@ -1,7 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-v/ni-visa/26.0/offline/ni-visa_26.0.0_offline.iso 
-ni-visa_26.0.0_offline.iso
-314a3d403dc3c39b0cd37ace6896b5b3
-26.0.0
-NI-VISA 2026 Q1 Full
+https://download.ni.com/support/nipkg/products/ni-v/ni-visa/26.0/offline/ni-visa_26.0.1_offline.iso 
+ni-visa_26.0.1_offline.iso
+757b9a81667d6d5a8c664efa94175c1e
+26.0.1
+NI-VISA 2026 Q1 Patch 
 NI.VISA
-
