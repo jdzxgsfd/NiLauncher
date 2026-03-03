@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/visa/NI-VISA/15.0.1/NIVISA1501full.zip 
-NIVISA1501full.zip
-8013615323676a688ac5495d9d48b4df
-15.0.1.Full
-NI-VISA 15.0.1 Full
+https://download.ni.com/support/softlib/visa/NI-VISA/15.5/Windows/NIVISA1550full.zip 
+NIVISA1550full.zip
+0ba4bb535a713e07a9e5924aa7ffdf3b
+15.5.Full
+NI-VISA 15.5 Full
 NI.VISA
 
