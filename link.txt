@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/visa/VISA%20Run-Time%20Engine/14.0.1/NIVISA1401runtime.zip 
-NIVISA1401runtime.zip
-37ccb7aeb2328334bcfa53483d5dd720
-14.0.1.Runtime
-NI-VISA 14.0.1 Runtime
+https://download.ni.com/support/softlib/visa/NI-VISA/15.0/Windows/NIVISA1500runtime.zip 
+NIVISA1500runtime.zip
+c6dc4feafc90755b9e448460d3a536a2
+15.0.Runtime
+NI-VISA 15.0 Runtime
 NI.VISA
 
