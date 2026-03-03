@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/visa/NI-VISA/17.5/Windows/NIVISA1750runtime.zip
-NIVISA1750runtime.zip
-3d5df737e5d69dfdba664dffbafeddbe
-17.5.Runtime
-NI-VISA 17.5 Runtime
+https://download.ni.com/support/softlib/visa/NI-VISA/18.0/Windows/NIVISA1800full.zip 
+NIVISA1800full.zip
+b30c3bcb5194739cd12afcab0bff37e5
+18.0.Full
+NI-VISA 18.0 Full
 NI.VISA
 
