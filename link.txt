@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/visa/NI-VISA/5.4/windows/visa540_full.zip 
-visa540_full.zip
-910704aee3139956a5b577b7f8c3b7fe
-05.4.Full
-NI-VISA 5.4 Full
+https://download.ni.com/support/softlib/visa/NI-VISA/5.4/windows/visa540_runtime.zip 
+visa540_runtime.zip
+b263ee0eb69623496865c21a47326286
+05.4.Runtime
+NI-VISA 5.4 Runtime
 NI.VISA
