@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/AST/ASLISOs/2017Q5/SPB%20WBIs/502050D-01M_2017SWPlatform.iso 
-502050D-01M_2017SWPlatform.iso
-7A7460368D0BCDBB45CA69B4A7734EB4
-17.Spring
-Software Platform Bundle Spring 2017
+https://download.ni.com/support/softlib/AST/ASLISOs/2018Q1/SPB%20WBIs/502050F-01M_2017SP1SWP.iso 
+502050F-01M_2017SP1SWP.iso
+1A6C509EF098252AF21D2D521843303E
+17.Fall
+Software Platform Bundle Fall 2017
 NI.SPB
