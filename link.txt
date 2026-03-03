@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-v/ni-visa/25.5/offline/ni-visa_25.5.0_offline.iso 
-ni-visa_25.5.0_offline.iso
-3673fd5ce1e38e5da85bbe159df5b7aa
-25.5.0
-NI-VISA 2025 Q3 Full
+https://download.ni.com/support/nipkg/products/ni-v/ni-visa/25.8/offline/ni-visa_25.8.0_offline.iso 
+ni-visa_25.8.0_offline.iso
+00b77718e7fa6fc4ff9d8e4aa9c6014b
+25.8.0
+NI-VISA 2025 Q4 Full
 NI.VISA
 
