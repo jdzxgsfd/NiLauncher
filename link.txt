@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/visa/NI-VISA/14.0.1/NIVISA1401full.zip
-NIVISA1401full.zip
-a02e1cdfedce366876d3a29db2224aec
-14.0.1.Full
-NI-VISA 14.0.1 Full
+https://download.ni.com/support/softlib/visa/VISA%20Run-Time%20Engine/14.0.1/NIVISA1401runtime.zip 
+NIVISA1401runtime.zip
+37ccb7aeb2328334bcfa53483d5dd720
+14.0.1.Runtime
+NI-VISA 14.0.1 Runtime
 NI.VISA
 
