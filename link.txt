@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/AST/ASLISOs/2016Q1/SPB%20WBIs/502050B-01M_NISOFTWARE-S16_SPB.iso 
-502050B-01M_NISOFTWARE-S16_SPB.iso
-203122c20058cf5d4804f4f737adb91d
-16.Spring
-Software Platform Bundle Spring 2016
+https://download.ni.com/support/softlib/AST/ASLISOs/2016Q3/SPB%20WBIs/502050C-01M_NISOFTWARE-F16_SPB.iso 
+502050C-01M_NISOFTWARE-F16_SPB.iso
+4A11BCB51E4ACB8A78C69B4ADFF2447E
+16.Fall
+Software Platform Bundle Fall 2016
 NI.SPB
