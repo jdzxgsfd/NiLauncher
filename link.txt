@@ -1,7 +1,7 @@
-https://download.ni.com/support/softlib/visa/NI-VISA/18.5/Windows/NIVISA1850runtime.zip 
-NIVISA1850runtime.zip
-9dd214027cfd576c425ee1581935a4f5
-18.5.Runtime
-NI-VISA 18.5 Runtime
+https://download.ni.com/support/nipkg/products/ni-v/ni-visa/19.0/offline/ni-visa_19.0.0_offline.iso 
+ni-visa_19.0.0_offline.iso
+5299a60b960bb803caa6eb0d545f6df6
+19.0.0
+NI-VISA 19.0 Full
 NI.VISA
 
