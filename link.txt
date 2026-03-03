@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/visa/NI-VISA/5.4.1/Windows/NIVISA541runtime.zip 
-NIVISA541runtime.zip
-9b588a45c9beaf86b0bc31a25c1bd4e8
-05.4.1.Runtime
-NI-VISA 5.4.1 Runtime
+https://download.ni.com/support/softlib/visa/NI-VISA/14.0/Windows/NIVISA1400full.zip 
+NIVISA1400full.zip
+11f222cc36e85f1b7cbb40bb1d28a9a6
+14.0.Full
+NI-VISA 14.0 Full
 NI.VISA
