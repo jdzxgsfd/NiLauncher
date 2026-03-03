@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-s/ni-software-platform-bundle-x86-zh-cn/26.0/offline/ni-software-platform-bundle-x86-zh-cn_26.0.0.49220-0+f68_offline.iso
-ni-software-platform-bundle-x86-zh-cn_26.0.0.49220-0+f68_offline.iso
-5f74125f0893bfffacc92ddcf7760f41
-26.0.0.49220.x86.zh-CN
-Software Platform Bundle 2026 Q1 32bit Simplified Chinese
+https://download.ni.com/support/softlib/visa/NI-VISA/5.4/windows/visa540_full.zip 
+visa540_full.zip
+910704aee3139956a5b577b7f8c3b7fe
+05.4.Full
+NI-VISA 5.4 Full
 NI.SPB
