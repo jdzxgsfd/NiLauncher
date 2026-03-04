@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/AST/ASLISOs/2018Q4/SPB/502050H-01M_SPB.iso 
-502050H-01M_SPB.iso
-2B48661380E3E3BF0DB49E384AA15D4B
-18.Fall
-Software Platform Bundle Fall 2018
-NI.SPB
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2024/24.5/offline/ni-labview-2024_24.5.0.49229-0+f77_offline.iso
+ni-labview-2024_24.5.0.49229-0+f77_offline.iso
+70f4cdaf4fecf92f653af0a466251a25
+24.5.0.x64.en-US
+LabVIEW 2024 64bit English
+NI.LabVIEW.2024.IncludeDriver
