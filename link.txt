@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-m/ni-modulation-toolkit-runtime/19.0/offline/ni-modulation-toolkit-runtime_19.0.0_offline.iso 
-ni-modulation-toolkit-runtime_19.0.0_offline.iso
-47de08dd4a532235fa9e3b86f2a1fbff
-19.0.0.Runtime
-LabVIEW Modulation Toolkit 2019 Runtime
+https://download.ni.com/support/nipkg/products/ni-m/ni-modulation-toolkit/19.0/offline/ni-modulation-toolkit_19.0.0_offline.iso 
+ni-modulation-toolkit_19.0.0_offline.iso
+a0f416b5182055f415b2640514784aee
+19.0.0.Full
+LabVIEW Modulation Toolkit 2019 Full
 NI.Modulation
 
