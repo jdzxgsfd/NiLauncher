@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2022-x86-ko/22.5/offline/ni-labview-2022-x86-ko_22.5.0.49199-0+f47_offline.iso 
-ni-labview-2022-x86-ko_22.5.0.49199-0+f47_offline.iso
-c592afe91658be296c9b86b6acf88cd9
-22.5.0.x86.ko-KR
-LabVIEW 2022 Q3 32bit Korean
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2022-x86-fr/22.5/offline/ni-labview-2022-x86-fr_22.5.0.49199-0+f47_offline.iso 
+ni-labview-2022-x86-fr_22.5.0.49199-0+f47_offline.iso
+764c925245bb5fab3787caaebfda7149
+22.5.0.x86.fr-FR
+LabVIEW 2022 Q3 32bit French
 NI.LabVIEW.2024.IncludeDriver
 
