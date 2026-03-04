@@ -1,6 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2023/23.5/offline/ni-labview-2023_23.5.0.49300-0+f148_offline.iso 
-ni-labview-2023_23.5.0.49300-0+f148_offline.iso
-b57ec9ae19447182e8464dd4470e47ad
-23.5.0.x64.en-US
-LabVIEW 2023 Q3 64bit English
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2023-x86-zh-cn/23.5/offline/ni-labview-2023-x86-zh-cn_23.5.0.49300-0+f148_offline.iso 
+ni-labview-2023-x86-zh-cn_23.5.0.49300-0+f148_offline.iso
+378d6ba9f785afb4128e82a1b862de58
+23.5.0.x86.zh-CN
+LabVIEW 2023 Q3 32bit Simplified Chinese
 NI.LabVIEW.2024.IncludeDriver
+
