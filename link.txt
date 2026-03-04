@@ -1,7 +1,7 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2026-ko/26.0/offline/ni-labview-2026-ko_26.0.0.49220-0+f68_offline.iso 
-ni-labview-2026-ko_26.0.0.49220-0+f68_offline.iso
-c386e4247c0a6d29e8835150416a088b
-26.0.0.x64.ko-KR
-LabVIEW 2026 Q1 64bit Korean
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2026-fr/26.0/offline/ni-labview-2026-fr_26.0.0.49220-0+f68_offline.iso  
+ni-labview-2026-fr_26.0.0.49220-0+f68_offline.iso
+d55b9d1596cbda5dd3eaa5d6e51b19ad
+26.0.0.x64.fr-FR
+LabVIEW 2026 Q1 64bit French
 NI.LabVIEW.2024.IncludeDriver
 
