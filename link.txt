@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2025/25.5/offline/ni-labview-2025_25.5.0.49251-0+f99_offline.iso 
-ni-labview-2025_25.5.0.49251-0+f99_offline.iso
-2f6225d50b82c302e0d8cd52d168a89b
-25.5.0.x64.en-US
-LabVIEW 2025 Q3 64bit English
+https://download.ni.com/support/nipkg/products/ni-l/ni-labview-2026-ja/26.0/offline/ni-labview-2026-ja_26.0.0.49220-0+f68_offline.iso  
+ni-labview-2026-ja_26.0.0.49220-0+f68_offline.iso
+6c32330c5c21d0930e28f62919b24ae7
+26.0.0.x64.ja-JP
+LabVIEW 2026 Q1 64bit Japanese
 NI.LabVIEW.2024.IncludeDriver
