@@ -1,8 +1,9 @@
-https://download.ni.com/support/softlib/flexlogger/2018/FlexLogger2018R3.iso
-FlexLogger2018R3.iso
-8a8ba200f5932fe278031be69d964d5e
-18.R3
-FlexLogger 2018 R3
+https://download.ni.com/support/softlib/flexlogger/2018/FlexLogger2018R2f1.zip
+FlexLogger2018R2f1.zip
+44fb1ed1872326c25891efa73c2078ef
+18.R2f1
+FlexLogger 2018 R2 Patch
 NI.FlexLogger
+
 
 
