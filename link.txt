@@ -1,6 +1,15 @@
-https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/24.8/offline/ni-flexlogger_24.8.0_offline.iso 
-ni-flexlogger_24.8.0_offline.iso
-3accf7b9e98402fad81ce9b0257b126b
-24.8.0
-FlexLogger 2024 Q4
+https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/24.6/offline/ni-flexlogger_24.6.0_offline.iso 
+ni-flexlogger_24.6.0_offline.iso
+0de2ba17bcac07b44853ac2ede3a1f9f
+24.6.0
+FlexLogger 2024 Q3.1
 NI.FlexLogger
+
+
+
+
+
+
+
+
+
