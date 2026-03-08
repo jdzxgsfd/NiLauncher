@@ -1,7 +1,6 @@
-https://download.ni.com/support/softlib/flexrio_iomodules/NI%20FlexRIO/NI%20FlexRIO%2013.2.0%20Patch/13.2.0%20patch2.zip 
-13.2.0 patch2.zip
-7e020aa475f6ee7ef6ef42a9ec49df60
-13.2.0.Patch2
-FlexRIO 13.2.0
+https://download.ni.com/support/nipkg/products/ni-f/ni-flexrio/19.7/offline/ni-flexrio_19.7.0.49152-0+f0_offline.iso 
+ni-flexrio_19.7.0.49152-0+f0_offline.iso
+8aea7e4bd1d2de06e34efa962483a877
+19.7.0.en-US
+FlexRIO 19.7 English
 NI.FlexRIO
-
