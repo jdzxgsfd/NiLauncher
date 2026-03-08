@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/21.0/offline/ni-flexlogger_21.0.1_offline.iso 
-ni-flexlogger_21.0.1_offline.iso
-be3c07a83c97cc0977e1322febacfeb0
-21.0.1
-FlexLogger 2021 R1f1
+https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/21.0/offline/ni-flexlogger_21.0.0_offline.iso 
+ni-flexlogger_21.0.0_offline.iso
+e3c27f9b69384469e4136eb8dbd046ae
+21.0.0
+FlexLogger 2021 R1
 NI.FlexLogger
