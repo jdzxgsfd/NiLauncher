@@ -1,11 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/1.8/offline/ni-flexlogger_1.8.1_offline.iso 
-ni-flexlogger_1.8.1_offline.iso
-4d5482a30c0c85f56e365ceaceedb4fc
-19.R3
-FlexLogger 2019 R3
+https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/1.7/offline/ni-flexlogger_1.7.1_offline.iso 
+ni-flexlogger_1.7.1_offline.iso
+e4b2e11aa3d5a1781748818241833126
+19.R2
+FlexLogger  2019 R2
 NI.FlexLogger
-
-
-
-
-
