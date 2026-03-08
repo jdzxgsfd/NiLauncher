@@ -1,7 +1,12 @@
-https://download.ni.com/support/softlib/flexrio_iomodules/NI%20FlexRIO/FlexRIO%2015.0/FlexRIO%2015.0.zip 
-FlexRIO 15.0.zip
-92a0bb34ab6df2b2daaf76707324c719
-15.0
-FlexRIO 15.0
+https://download.ni.com/support/softlib/flexrio_iomodules/NI%20FlexRIO/NI%20FlexRIO%2014.5.0/NI%20FlexRIO%2014.5.zip 
+NI FlexRIO 14.5.zip
+6222d098e9cc37801494afb45a4baa54
+14.5
+FlexRIO 14.5
 NI.FlexRIO
+
+
+
+
+
 
