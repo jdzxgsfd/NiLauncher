@@ -1,6 +1,8 @@
-https://download.ni.com/support/nipkg/products/ni-v/ni-vision-builder-ai-2023/23.5/offline/ni-vision-builder-ai-2023_23.5.0_offline.iso 
-ni-vision-builder-ai-2023_23.5.0_offline.iso
-12490035ba7f482f6877fa94c33fc67c
-23.5.0
-Vision Builder for Automated Inspection 2020 Q3
-NI.VBAI
+https://download.ni.com/support/nipkg/products/ni-f/ni-flexrio/25.5/offline/ni-flexrio_25.5.0.49239-0+f87_offline.iso 
+ni-flexrio_25.5.0.49239-0+f87_offline.iso
+c45dc22b8732691874036e8944e94215
+25.5.0
+FlexRIO 2025 Q3
+NI.FlexRIO
+
+
