@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/vision/Vision%20Builder%20for%20Automated%20Inspection/2011%20SP1/VBAI2011SP1.zip 
-VBAI2011SP1.zip
-a361c03e5bffc61078ec7cdb2d014701
-2011
-Vision Builder for Automated Inspection 2011
+https://download.ni.com/support/softlib/vision/Vision%20Builder%20for%20Automated%20Inspection/2012%20SP1%20f2/VBAI2012SP1f2.zip 
+VBAI2012SP1f2.zip
+4296d93df6df61661673ae89187772be
+2012
+Vision Builder for Automated Inspection 2012
 NI.VBAI
