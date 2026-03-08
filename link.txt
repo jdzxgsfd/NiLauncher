@@ -1,19 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/20.1/offline/ni-flexlogger_20.1.0_offline.iso 
-ni-flexlogger_20.1.0_offline.iso
-5a205a4c89cf881bb6e6b5ef0acf1fda
-20.1.0
-FlexLogger 2020 R2
+https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/20.0/offline/ni-flexlogger_20.0.1_offline.iso
+ni-flexlogger_20.0.1_offline.iso
+B580529E7754BB2CDE29C25CD05A0C2B
+20.0.1
+FlexLogger 2020 R1.1
 NI.FlexLogger
-
-
-
-
-
-
-
-
-
-
-
-
-
