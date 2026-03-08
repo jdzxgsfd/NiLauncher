@@ -1,12 +1,7 @@
-https://download.ni.com/support/softlib/flexrio_iomodules/NI%20FlexRIO%20RTE/NIFlexRIORTE1701.exe 
-NIFlexRIORTE1701.exe
-2ec3c4552db7f6235c275c14210672ad
-17.0.1.Runtime
-FlexRIO 17.0.1 Runtime
+https://download.ni.com/support/softlib/flexrio_iomodules/NI%20FlexRIO/FlexRIO%201701/NIFlexRIO1701.zip 
+NIFlexRIO1701.zip
+b67057e9e29f7d3978d3ff8a53611720
+17.0.1.Full
+FlexRIO 17.0.1 Full
 NI.FlexRIO
-
-
-
-
-
 
