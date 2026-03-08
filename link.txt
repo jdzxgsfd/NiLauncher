@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-f/ni-flexrio/23.5/offline/ni-flexrio_23.5.0.49293-0+f141_offline.iso 
-ni-flexrio_23.5.0.49293-0+f141_offline.iso
-5a99e18aab76a8f767f81d1bba351ea0
-23.5.0
-FlexRIO 2023 Q3
+https://download.ni.com/support/nipkg/products/ni-f/ni-flexrio/23.3/offline/ni-flexrio_23.3.0.49373-0+f221_offline.iso 
+ni-flexrio_23.3.0.49373-0+f221_offline.iso
+207dec9b1f4927f57b871b693444af99
+23.3.0
+FlexRIO 2023 Q2
 NI.FlexRIO
