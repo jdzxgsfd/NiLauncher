@@ -1,8 +1,7 @@
-https://download.ni.com/support/softlib/flexrio_iomodules/NI%20FlexRIO%20RTE/NI%20FlexRIO%20RTE%2014.1.0/NI%20FlexRIO%20RTE%2014.1.0.zip 
-NI FlexRIO RTE 14.1.0.zip
-1b166c09e3c01bed132cf3d198efcda0
-14.1.0.Runtime
-FlexRIO 14.1.0 Runtime
+https://download.ni.com/support/softlib/flexrio_iomodules/NI%20FlexRIO/NI%20FlexRIO%2014.1.0/NI%20FlexRIO%2014.1.0.zip 
+NI FlexRIO 14.1.0.zip
+1d332f8256b52fcaf014c3ab2c190a85
+14.1.0.Full
+FlexRIO 14.1.0 Full
 NI.FlexRIO
-
 
