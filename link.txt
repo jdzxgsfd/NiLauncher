@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/25.3/offline/ni-flexlogger_25.3.1_offline.iso 
-ni-flexlogger_25.3.1_offline.iso
-a771f3d675e1a644e818a674c653c250
-25.3.1
-FlexLogger 2025 Q2 Patch1
+https://download.ni.com/support/nipkg/products/ni-f/ni-flexlogger/25.3/offline/ni-flexlogger_25.3.0_offline.iso 
+ni-flexlogger_25.3.0_offline.iso
+c016db99c506973247ccb33e8a45b075
+25.3.0
+FlexLogger 2025 Q2
 NI.FlexLogger
