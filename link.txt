@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-v/ni-vision-builder-ai-2020/20.5/offline/ni-vision-builder-ai-2020_20.5.0_offline.iso 
-ni-vision-builder-ai-2020_20.5.0_offline.iso
-2ef262bdc414c9a230138e87fb0388c2
-20.5.0
-Vision Builder for Automated Inspection 2020
+https://download.ni.com/support/nipkg/products/ni-v/ni-vision-builder-ai-2023/23.5/offline/ni-vision-builder-ai-2023_23.5.0_offline.iso 
+ni-vision-builder-ai-2023_23.5.0_offline.iso
+12490035ba7f482f6877fa94c33fc67c
+23.5.0
+Vision Builder for Automated Inspection 2020 Q3
 NI.VBAI
