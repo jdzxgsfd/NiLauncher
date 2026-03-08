@@ -1,6 +1,6 @@
-https://download.ni.com/support/nipkg/products/ni-f/ni-flexrio/21.0/offline/ni-flexrio_21.0.0.49356-0+f204_offline.iso 
-ni-flexrio_21.0.0.49356-0+f204_offline.iso
-8bf70915c181abc8110b698bc75d09f9
-21.0.0
-FlexRIO 21.0
+https://download.ni.com/support/nipkg/products/ni-f/ni-flexrio/20.7/offline/ni-flexrio_20.7.0.49605-0+f453_offline.iso 
+ni-flexrio_20.7.0.49605-0+f453_offline.iso
+da4591b81013fe2486584e45a893abe7
+20.7.0
+FlexRIO 20.7
 NI.FlexRIO
