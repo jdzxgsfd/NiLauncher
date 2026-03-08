@@ -1,6 +1,6 @@
-https://download.ni.com/support/softlib/vision/Vision%20Builder%20for%20Automated%20Inspection/2015%20f3/VBAI_2015F3.zip 
-VBAI_2015F3.zip
-4cf2a18fa972773a1522921de020ac21
-2015
-Vision Builder for Automated Inspection 2015
+https://download.ni.com/support/nipkg/products/ni-v/ni-vision-builder-ai-2018/19.0/offline/ni-vision-builder-ai-2018_19.0.0_offline.iso 
+ni-vision-builder-ai-2018_19.0.0_offline.iso
+a79cd1a7dde725f5b6e9570ae75bef1e
+19.0.0
+Vision Builder for Automated Inspection 2018 SP1
 NI.VBAI
