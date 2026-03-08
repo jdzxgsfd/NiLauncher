@@ -1,6 +1,12 @@
-https://download.ni.com/support/softlib/flexrio_iomodules/NI%20FlexRIO/FlexRIO%2018.7/NIFlexRIO1870.zip 
-NIFlexRIO1870.zip
-3420a5b5aa5030530e0c490077cd7732
-18.7
-FlexRIO 18.7
+https://download.ni.com/support/softlib/flexrio_iomodules/NI%20FlexRIO%20RTE/NIFlexRIORTE1701.exe 
+NIFlexRIORTE1701.exe
+2ec3c4552db7f6235c275c14210672ad
+17.0.1.Runtime
+FlexRIO 17.0.1 Runtime
 NI.FlexRIO
+
+
+
+
+
+
